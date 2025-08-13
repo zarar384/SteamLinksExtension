@@ -1,3 +1,3 @@
 This extension adds a link bar to private profiles
 
-![the image was removed from IMGUR](https://imgur.com/OZio03B)
+![the image was removed from IMGUR](https://i.imgur.com/OZio03B.jpeg)
