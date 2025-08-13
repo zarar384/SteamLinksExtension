@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Steam Private Profile Links",
+  "version": "1.0",
+  "description": "Adds links to Private Steam profiles.",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://steamcommunity.com/id/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
