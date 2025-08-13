@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://steamcommunity.com/id/*"],
-      "js": ["content.js"]
+      "js": ["src/content.js"]
     }
   ]
 }
